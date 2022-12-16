@@ -1,0 +1,2 @@
+catboost==1.0.4
+pandas==1.2.4
