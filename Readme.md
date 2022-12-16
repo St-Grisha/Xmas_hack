@@ -1,4 +1,5 @@
 pip install -r requirements.txt
+
 python main.py --path PATH_TO_PRIVATE_DATASET
 
 
